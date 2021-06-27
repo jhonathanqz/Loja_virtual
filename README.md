@@ -11,10 +11,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 
+Alguns pacotes utilizados no projeto:
+
+- [cloud_firestore](https://pub.dev/packages/cloud_firestore)
+- [firebase_auth](https://pub.dev/packages/firebase_auth)
+
 ## 💻 Projeto
 
 O projeto Loja Virtual, consiste em um aplicativo de loja virtual, permitindo o usuário verificar os produtos, fazr pedido e verificar os pedidos após finalização.
-
+<br><br>
 ## ▶️ Como executar
 
 - Clone o repositório
