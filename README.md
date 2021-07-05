@@ -19,6 +19,13 @@ Alguns pacotes utilizados no projeto:
 ## 💻 Projeto
 
 O projeto Loja Virtual, consiste em um aplicativo de loja virtual, permitindo o usuário verificar os produtos, fazr pedido e verificar os pedidos após finalização.
+
+## 📱 Screenshots
+<div>
+  <img src="https://github.com/jhonathanqz/Loja_virtual/blob/master/screenshots/home1.jpg" width="600px" style="max-width:100%;" alt="imagem do projeto">
+  <img src="https://github.com/jhonathanqz/Loja_virtual/blob/master/screenshots/home2.jpg" width="600px" style="max-width:100%;" alt="imagem do projeto">
+</div>
+
 <br><br>
 ## ▶️ Como executar
 
